@@ -1,0 +1,2 @@
+2018-03-06 16:11:56,273 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.springsource.ide.eclipse.commons.core.templates.TemplateProcessor).
+2018-03-06 16:11:56,273 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
